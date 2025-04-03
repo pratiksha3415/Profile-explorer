@@ -121,7 +121,7 @@ profile-explorer/
 This project is licensed under the **MIT License**.
 
 ## **Contributors**
-🚀 Developed by **[Your Name]**  
-💡 Open to contributions & improvements!  
+🚀 Developed by **Pratiksha Aghav**  
+
 
  
